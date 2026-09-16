@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+.ipynb_checkpoints
+
+
+DAILY_FX/
+
+github_pat.txt
